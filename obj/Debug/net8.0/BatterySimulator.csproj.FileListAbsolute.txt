@@ -1,0 +1,14 @@
+C:\Users\aho\Downloads\BatterySimulator\bin\Debug\net8.0\BatterySimulator.exe
+C:\Users\aho\Downloads\BatterySimulator\bin\Debug\net8.0\BatterySimulator.deps.json
+C:\Users\aho\Downloads\BatterySimulator\bin\Debug\net8.0\BatterySimulator.runtimeconfig.json
+C:\Users\aho\Downloads\BatterySimulator\bin\Debug\net8.0\BatterySimulator.dll
+C:\Users\aho\Downloads\BatterySimulator\bin\Debug\net8.0\BatterySimulator.pdb
+C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\BatterySimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\BatterySimulator.AssemblyInfoInputs.cache
+C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\BatterySimulator.AssemblyInfo.cs
+C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\BatterySimulator.csproj.CoreCompileInputs.cache
+C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\BatterySimulator.dll
+C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\refint\BatterySimulator.dll
+C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\BatterySimulator.pdb
+C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\BatterySimulator.genruntimeconfig.cache
+C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\ref\BatterySimulator.dll
