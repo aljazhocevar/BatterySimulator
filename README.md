@@ -7,7 +7,7 @@ This is a simple .NET 8 console application that simulates a battery storage sys
 - `Simulator.cs` - simulation logic.
 - `BatteryModel.cs` - battery parameters.
 - `activation_60s.json` - example input with 60 values (MW).
-- `output.csv` - generated after running (not included by default).
+- `output.json` - generated after running (not included by default).
 
 ## How to build & run
 Requires .NET 8 SDK installed.
