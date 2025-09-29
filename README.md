@@ -13,8 +13,16 @@ This is a simple .NET 8 console application that simulates a battery storage sys
 Requires .NET 8 SDK installed.
 
 ```bash
+navigate to: BatterySimulator/src/
 dotnet build
 dotnet run --project BatterySimulator.csproj -- activation_60s.json output.json
 ```
 
 If you omit args, defaults are `activation_60s.json` and `output.json` in the working directory.
+
+## How to build & run tests
+```bash
+navigate to: BatterySimulator/tests/
+dotnet build
+dotnet test
+```
