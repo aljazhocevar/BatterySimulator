@@ -1,362 +1,362 @@
 [
   {
     "Second": 0,
-    "RequestedMW": -1,
+    "RequestedMW": -0.7,
+    "AppliedMW": -0.7,
+    "SoC": 0.5000388888888889
+  },
+  {
+    "Second": 1,
+    "RequestedMW": -1.9,
+    "AppliedMW": -1,
+    "SoC": 0.5000944444444445
+  },
+  {
+    "Second": 2,
+    "RequestedMW": -0.2,
+    "AppliedMW": -0.2,
+    "SoC": 0.5001055555555556
+  },
+  {
+    "Second": 3,
+    "RequestedMW": 0.6,
+    "AppliedMW": 0.6,
+    "SoC": 0.5000722222222223
+  },
+  {
+    "Second": 4,
+    "RequestedMW": -0.4,
+    "AppliedMW": -0.4,
+    "SoC": 0.5000944444444445
+  },
+  {
+    "Second": 5,
+    "RequestedMW": 0.7,
+    "AppliedMW": 0.7,
+    "SoC": 0.5000555555555556
+  },
+  {
+    "Second": 6,
+    "RequestedMW": 1.9,
+    "AppliedMW": 1,
+    "SoC": 0.5
+  },
+  {
+    "Second": 7,
+    "RequestedMW": -1.1,
     "AppliedMW": -1,
     "SoC": 0.5000555555555556
   },
   {
-    "Second": 1,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5001111111111112
-  },
-  {
-    "Second": 2,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5001666666666668
-  },
-  {
-    "Second": 3,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5002222222222223
-  },
-  {
-    "Second": 4,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5002777777777779
-  },
-  {
-    "Second": 5,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5003333333333335
-  },
-  {
-    "Second": 6,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5003888888888891
-  },
-  {
-    "Second": 7,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5004444444444447
-  },
-  {
     "Second": 8,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5005000000000003
+    "RequestedMW": 0.1,
+    "AppliedMW": 0.1,
+    "SoC": 0.50005
   },
   {
     "Second": 9,
-    "RequestedMW": -1,
+    "RequestedMW": -1.4,
     "AppliedMW": -1,
-    "SoC": 0.5005555555555559
+    "SoC": 0.5001055555555556
   },
   {
     "Second": 10,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5006111111111115
+    "RequestedMW": -0.5,
+    "AppliedMW": -0.5,
+    "SoC": 0.5001333333333333
   },
   {
     "Second": 11,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.500666666666667
+    "RequestedMW": 1.4,
+    "AppliedMW": 1,
+    "SoC": 0.5000777777777777
   },
   {
     "Second": 12,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5007222222222226
+    "RequestedMW": -0,
+    "AppliedMW": -0,
+    "SoC": 0.5000777777777777
   },
   {
     "Second": 13,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5007777777777782
+    "RequestedMW": -0.7,
+    "AppliedMW": -0.7,
+    "SoC": 0.5001166666666667
   },
   {
     "Second": 14,
-    "RequestedMW": -1,
+    "RequestedMW": -1.8,
     "AppliedMW": -1,
-    "SoC": 0.5008333333333338
+    "SoC": 0.5001722222222222
   },
   {
     "Second": 15,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5008888888888894
+    "RequestedMW": 1,
+    "AppliedMW": 1,
+    "SoC": 0.5001166666666667
   },
   {
     "Second": 16,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.500944444444445
+    "RequestedMW": 1.5,
+    "AppliedMW": 1,
+    "SoC": 0.5000611111111111
   },
   {
     "Second": 17,
-    "RequestedMW": -1,
+    "RequestedMW": -1.6,
     "AppliedMW": -1,
-    "SoC": 0.5010000000000006
+    "SoC": 0.5001166666666667
   },
   {
     "Second": 18,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5010555555555561
+    "RequestedMW": -0.9,
+    "AppliedMW": -0.9,
+    "SoC": 0.5001666666666666
   },
   {
     "Second": 19,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5011111111111117
+    "RequestedMW": 0.7,
+    "AppliedMW": 0.7,
+    "SoC": 0.5001277777777777
   },
   {
     "Second": 20,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5011666666666673
+    "RequestedMW": -0.6,
+    "AppliedMW": -0.6,
+    "SoC": 0.5001611111111111
   },
   {
     "Second": 21,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5012222222222229
+    "RequestedMW": 0.1,
+    "AppliedMW": 0.1,
+    "SoC": 0.5001555555555555
   },
   {
     "Second": 22,
-    "RequestedMW": -1,
+    "RequestedMW": -1.5,
     "AppliedMW": -1,
-    "SoC": 0.5012777777777785
+    "SoC": 0.500211111111111
   },
   {
     "Second": 23,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5013333333333341
+    "RequestedMW": 0.8,
+    "AppliedMW": 0.8,
+    "SoC": 0.5001666666666666
   },
   {
     "Second": 24,
-    "RequestedMW": -1,
+    "RequestedMW": -1.3,
     "AppliedMW": -1,
-    "SoC": 0.5013888888888897
+    "SoC": 0.5002222222222222
   },
   {
     "Second": 25,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5014444444444452
+    "RequestedMW": 1.3,
+    "AppliedMW": 1,
+    "SoC": 0.5001666666666666
   },
   {
     "Second": 26,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5015000000000008
+    "RequestedMW": 1.7,
+    "AppliedMW": 1,
+    "SoC": 0.5001111111111111
   },
   {
     "Second": 27,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5015555555555564
+    "RequestedMW": -0.3,
+    "AppliedMW": -0.3,
+    "SoC": 0.5001277777777777
   },
   {
     "Second": 28,
-    "RequestedMW": -1,
+    "RequestedMW": -1.4,
     "AppliedMW": -1,
-    "SoC": 0.501611111111112
+    "SoC": 0.5001833333333333
   },
   {
     "Second": 29,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5016666666666676
+    "RequestedMW": 0.4,
+    "AppliedMW": 0.4,
+    "SoC": 0.5001611111111111
   },
   {
     "Second": 30,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5017222222222232
+    "RequestedMW": -0.1,
+    "AppliedMW": -0.1,
+    "SoC": 0.5001666666666666
   },
   {
     "Second": 31,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5017777777777788
+    "RequestedMW": 0.3,
+    "AppliedMW": 0.3,
+    "SoC": 0.50015
   },
   {
     "Second": 32,
-    "RequestedMW": -1,
+    "RequestedMW": -1.8,
     "AppliedMW": -1,
-    "SoC": 0.5018333333333344
+    "SoC": 0.5002055555555556
   },
   {
     "Second": 33,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5018888888888899
+    "RequestedMW": 1,
+    "AppliedMW": 1,
+    "SoC": 0.50015
   },
   {
     "Second": 34,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5019444444444455
+    "RequestedMW": 0.2,
+    "AppliedMW": 0.2,
+    "SoC": 0.5001388888888889
   },
   {
     "Second": 35,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5020000000000011
+    "RequestedMW": -0.9,
+    "AppliedMW": -0.9,
+    "SoC": 0.5001888888888889
   },
   {
     "Second": 36,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5020555555555567
+    "RequestedMW": 1.8,
+    "AppliedMW": 1,
+    "SoC": 0.5001333333333333
   },
   {
     "Second": 37,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5021111111111123
+    "RequestedMW": -0.5,
+    "AppliedMW": -0.5,
+    "SoC": 0.5001611111111111
   },
   {
     "Second": 38,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5021666666666679
+    "RequestedMW": 0.2,
+    "AppliedMW": 0.2,
+    "SoC": 0.50015
   },
   {
     "Second": 39,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5022222222222235
+    "RequestedMW": 1.3,
+    "AppliedMW": 1,
+    "SoC": 0.5000944444444444
   },
   {
     "Second": 40,
-    "RequestedMW": -1,
+    "RequestedMW": -2,
     "AppliedMW": -1,
-    "SoC": 0.502277777777779
+    "SoC": 0.50015
   },
   {
     "Second": 41,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5023333333333346
+    "RequestedMW": 1.7,
+    "AppliedMW": 1,
+    "SoC": 0.5000944444444444
   },
   {
     "Second": 42,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5023888888888902
+    "RequestedMW": -0.2,
+    "AppliedMW": -0.2,
+    "SoC": 0.5001055555555555
   },
   {
     "Second": 43,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5024444444444458
+    "RequestedMW": -0.7,
+    "AppliedMW": -0.7,
+    "SoC": 0.5001444444444444
   },
   {
     "Second": 44,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5025000000000014
+    "RequestedMW": 0.6,
+    "AppliedMW": 0.6,
+    "SoC": 0.5001111111111111
   },
   {
     "Second": 45,
-    "RequestedMW": -1,
+    "RequestedMW": -1.5,
     "AppliedMW": -1,
-    "SoC": 0.502555555555557
+    "SoC": 0.5001666666666666
   },
   {
     "Second": 46,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5026111111111126
+    "RequestedMW": -0.4,
+    "AppliedMW": -0.4,
+    "SoC": 0.5001888888888889
   },
   {
     "Second": 47,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5026666666666681
+    "RequestedMW": 0.9,
+    "AppliedMW": 0.9,
+    "SoC": 0.5001388888888889
   },
   {
     "Second": 48,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5027222222222237
+    "RequestedMW": 1.7,
+    "AppliedMW": 1,
+    "SoC": 0.5000833333333333
   },
   {
     "Second": 49,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5027777777777793
+    "RequestedMW": -0.3,
+    "AppliedMW": -0.3,
+    "SoC": 0.5001
   },
   {
     "Second": 50,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5028333333333349
+    "RequestedMW": -0.9,
+    "AppliedMW": -0.9,
+    "SoC": 0.50015
   },
   {
     "Second": 51,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5028888888888905
+    "RequestedMW": 0.5,
+    "AppliedMW": 0.5,
+    "SoC": 0.5001222222222222
   },
   {
     "Second": 52,
-    "RequestedMW": -1,
+    "RequestedMW": -1.6,
     "AppliedMW": -1,
-    "SoC": 0.5029444444444461
+    "SoC": 0.5001777777777778
   },
   {
     "Second": 53,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5030000000000017
+    "RequestedMW": 1.5,
+    "AppliedMW": 1,
+    "SoC": 0.5001222222222222
   },
   {
     "Second": 54,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5030555555555573
+    "RequestedMW": -0.6,
+    "AppliedMW": -0.6,
+    "SoC": 0.5001555555555556
   },
   {
     "Second": 55,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5031111111111128
+    "RequestedMW": 1.9,
+    "AppliedMW": 1,
+    "SoC": 0.5001
   },
   {
     "Second": 56,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5031666666666684
+    "RequestedMW": -0.8,
+    "AppliedMW": -0.8,
+    "SoC": 0.5001444444444444
   },
   {
     "Second": 57,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.503222222222224
+    "RequestedMW": 0.5,
+    "AppliedMW": 0.5,
+    "SoC": 0.5001166666666667
   },
   {
     "Second": 58,
-    "RequestedMW": -1,
-    "AppliedMW": -1,
-    "SoC": 0.5032777777777796
+    "RequestedMW": 1.1,
+    "AppliedMW": 1,
+    "SoC": 0.5000611111111111
   },
   {
     "Second": 59,
-    "RequestedMW": -1,
+    "RequestedMW": -1.3,
     "AppliedMW": -1,
-    "SoC": 0.5033333333333352
+    "SoC": 0.5001166666666667
   }
 ]

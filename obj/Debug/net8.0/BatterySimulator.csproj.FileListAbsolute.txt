@@ -12,3 +12,4 @@ C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\refint\BatterySimulator
 C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\BatterySimulator.pdb
 C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\BatterySimulator.genruntimeconfig.cache
 C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\ref\BatterySimulator.dll
+C:\Users\aho\Downloads\BatterySimulator\obj\Debug\net8.0\BatterySimulator.sourcelink.json
